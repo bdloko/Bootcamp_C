@@ -1,0 +1,5 @@
+Credentials cache: API:23704
+Principal: bdloko@42.FR
+
+Issued                Expires               Principal
+Apr 24 13:43:07 2017  Apr 24 23:43:06 2017  krbtgt/42.FR@42.FR
